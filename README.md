@@ -10,6 +10,7 @@ This work demonstrates how AI can enable **proactive diabetes monitoring** by pr
 ---
 
 📌 Project Highlights
+
 ✔ Forecasts glucose values using CGM time-series data  
 ✔ Hybrid deep learning architecture (LSTM + GRU)  
 ✔ Ensemble learning via Random Forest meta-learner  
@@ -18,6 +19,8 @@ This work demonstrates how AI can enable **proactive diabetes monitoring** by pr
 
 ---
  🎯 Problem Statement
+
+ 
 Continuous Glucose Monitoring generates large amounts of time-series data, but most monitoring systems react only after glucose levels become abnormal.  
 
 This project aims to **predict future glucose values** using historical CGM data so corrective action can be taken earlier.
@@ -105,7 +108,4 @@ Future Enhancements
 - Model optimization for wearable devices
 
 
-
-
-## ⭐ Repository Structure
 
